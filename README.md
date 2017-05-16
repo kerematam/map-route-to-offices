@@ -3,9 +3,9 @@ This is my spagetti code that i have developed for my client. This Google Map ap
 
 Usage Scenerio
 --------------
-1 - Select Start Point : User either searches for location on search box; or get his/her current location. 
-2 - Select Target Point : User selects one of given locations (in my case they were address of offices). 
-3 - Submit button to draw route from Start to Target points.
+1. Select Start Point : User either searches for location on search box; or get his/her current location. 
+2. Select Target Point : User selects one of given locations (in my case they were address of offices). 
+3. Submit button to draw route from Start to Target points.
 
 Sauces
 ------
